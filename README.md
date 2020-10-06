@@ -11,7 +11,7 @@
 - A function that selects and console.logs each list item
 - A function that loops through each list item and changes its text and style
 
-## Strech Deliverable
+## Stretch Deliverable
 
 - Write a function that creates a button, that when clicked, will change the background color. (click event)
 - Make a branch and "pull request" for your code.
@@ -27,3 +27,4 @@ https://share.getcloudapp.com/d5upe6pJ
 - Experiment with selectors, and different ways to manipulate nodes!
 - Figure out different ways to do the same thing / why you would use one method over another.
 - Even if one person is "driving", you should still code along!
+
